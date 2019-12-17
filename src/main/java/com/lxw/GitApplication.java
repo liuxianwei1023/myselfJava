@@ -15,5 +15,7 @@ public class GitApplication {
         System.out.println("这个应该是master");
         System.out.println("这个是dev的修改");
         System.out.println("dev Or master?");
+
+        System.out.println("this is dev!!");
     }
 }
