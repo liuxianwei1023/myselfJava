@@ -9,5 +9,6 @@ import tk.mybatis.spring.annotation.MapperScan;
 public class GitApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitApplication.class, args);
+        System.out.println("第一次做修改");
     }
 }
