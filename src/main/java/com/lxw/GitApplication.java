@@ -10,7 +10,8 @@ public class GitApplication {
     public static void main(String[] args) {
         SpringApplication.run(GitApplication.class, args);
         System.out.println("第一次做修改");
-        System.out.println("第二次做修改");
-
+        System.out.println("这个是dev的修改");
+        System.out.println("dev Or master?");
+        System.out.println("这个应该是master");
     }
 }
