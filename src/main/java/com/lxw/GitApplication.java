@@ -17,5 +17,6 @@ public class GitApplication {
         System.out.println("dev Or master?");
 
         System.out.println("this is dev!!");
+        System.out.println("github dev");
     }
 }
